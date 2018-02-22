@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Psibr.Linq.ForEach", "src\Psibr.Linq.ForEach\Psibr.Linq.ForEach.csproj", "{FA5BC4A6-4210-42F4-96B3-A682A9BBAC06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{084BDB5F-15E6-4BC2-AC42-2EA0642829F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5BC4A6-4210-42F4-96B3-A682A9BBAC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5BC4A6-4210-42F4-96B3-A682A9BBAC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5BC4A6-4210-42F4-96B3-A682A9BBAC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5BC4A6-4210-42F4-96B3-A682A9BBAC06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA5BC4A6-4210-42F4-96B3-A682A9BBAC06} = {084BDB5F-15E6-4BC2-AC42-2EA0642829F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B3212A-AAA2-4587-959B-E35B8B3C9051}
+	EndGlobalSection
+EndGlobal
